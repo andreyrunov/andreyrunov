@@ -16,6 +16,9 @@ I am a Frontend JS Developer with good experience in project management. Live in
 ![Sequelize](https://img.shields.io/badge/Sequelize-283149??style=for-the-badge&logo=sequelize)
 ![Git](https://img.shields.io/badge/Git-FFFFFF??style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-00204A??style=for-the-badge&logo=figma&logoColor=00BBF0)
+![Trello](https://img.shields.io/badge/Trello-026aa7??style=for-the-badge&logo=Trello&logoColor=D6E4F0)
+![Jira](https://img.shields.io/badge/Jira-D9FAFF??style=for-the-badge&logo=Jirasoftware&logoColor=2684ff)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-0bbbef??style=for-the-badge&logo=b24&logoColor=005893)
 
 
 ## Codewars
