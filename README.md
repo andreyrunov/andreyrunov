@@ -3,7 +3,7 @@ I am a Frontend JS Developer with good experience in project management. Live in
 
 ## My stack
 
-## Front
+#### Front
 
 ![React](https://img.shields.io/badge/React-3F72AF??style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764abc??style=for-the-badge&logo=redux)
@@ -13,7 +13,7 @@ I am a Frontend JS Developer with good experience in project management. Live in
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7532f9??style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/Figma-00204A??style=for-the-badge&logo=figma&logoColor=00BBF0)
 
-## Back
+#### Back
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-333333??style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-283149??style=for-the-badge&logo=express)
@@ -22,7 +22,7 @@ I am a Frontend JS Developer with good experience in project management. Live in
 ![Jest](https://img.shields.io/badge/Jest-FEFFE4??style=for-the-badge&logo=jest&logoColor=15c213)
 ![Git](https://img.shields.io/badge/Git-FFFFFF??style=for-the-badge&logo=git)
 
-## PM
+#### PM
 
 ![Trello](https://img.shields.io/badge/Trello-026aa7??style=for-the-badge&logo=Trello&logoColor=D6E4F0)
 ![Jira](https://img.shields.io/badge/Jira-D9FAFF??style=for-the-badge&logo=Jirasoftware&logoColor=2684ff)
