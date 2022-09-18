@@ -1,30 +1,28 @@
-### Hi there 👋 I'm Andrey
+# Hi there 👋 My name is Andrey.
+I am a Frontend JS Developer with good experience in project management. Live in Moscow.
 
-<!--
-**elefant86/elefant86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## About me
-
-![Javascript](https://img.shields.io/badge/Javascript-F07B3F??style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-3F72AF??style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-764abc??style=for-the-badge&logo=redux)
 ![HTML](https://img.shields.io/badge/HTML-2D4059??style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-A2D5F2??style=for-the-badge&logo=css3)
-![Redux](https://img.shields.io/badge/Redux-521262??style=for-the-badge&logo=redux)
+![Javascript](https://img.shields.io/badge/Javascript-fcdc00??style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7532f9??style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Jest](https://img.shields.io/badge/Jest-FEFFE4??style=for-the-badge&logo=jest&logoColor=15c213)
 ![Nodejs](https://img.shields.io/badge/Nodejs-086972??style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-283149??style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E8F1F5??style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-E3E3E3??style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-9E579D??style=for-the-badge&logo=figma)
+![Sequelize](https://img.shields.io/badge/Sequelize-283149??style=for-the-badge&logo=sequelize)
+![Git](https://img.shields.io/badge/Git-FFFFFF??style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-00204A??style=for-the-badge&logo=figma&logoColor=00BBF0)
+
+
+## Codewars
+
+[![Codewars](https://img.shields.io/badge/Codewars-393232??style=for-the-badge&logo=codewars&logoColor=FF6464)](https://www.codewars.com/users/elefant86/badges/large)
+
+## Reach me on
+
+[![Telegram](https://img.shields.io/badge/Telegram-AEDEFC??style=for-the-badge&logo=telegram)](https://t.me/andrey_runov)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-086972??style=for-the-badge&logo=whatsapp)](https://wa.me/79099154415)
