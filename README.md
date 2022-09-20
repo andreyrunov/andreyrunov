@@ -1,4 +1,5 @@
 # Hi there 👋 My name is Andrey.
+
 I am a Frontend JS Developer with good experience in project management. Live in Moscow.
 
 ## My stack
@@ -22,7 +23,7 @@ I am a Frontend JS Developer with good experience in project management. Live in
 ![Jest](https://img.shields.io/badge/Jest-FEFFE4??style=for-the-badge&logo=jest&logoColor=15c213)
 ![Git](https://img.shields.io/badge/Git-FFFFFF??style=for-the-badge&logo=git)
 
-#### PM
+#### Project management
 
 ![Trello](https://img.shields.io/badge/Trello-026aa7??style=for-the-badge&logo=Trello&logoColor=D6E4F0)
 ![Jira](https://img.shields.io/badge/Jira-D9FAFF??style=for-the-badge&logo=Jirasoftware&logoColor=2684ff)
@@ -31,7 +32,6 @@ I am a Frontend JS Developer with good experience in project management. Live in
 ![Miro](https://img.shields.io/badge/Miro-fec600??style=for-the-badge&logo=Miro&logoColor=050038)
 ![Axure](https://img.shields.io/badge/Axure-2a6ff6??style=for-the-badge&logo=Axure&logoColor=050038)
 ![Gantt](https://img.shields.io/badge/Gantt-008a7a??style=for-the-badge&logo=Gantt&logoColor=050038)
-
 
 ## Codewars
 
