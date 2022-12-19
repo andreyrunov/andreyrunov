@@ -35,7 +35,7 @@ I am a Frontend JS Developer with good experience in project management. Live in
 
 ## Codewars
 
-![Codewars](https://www.codewars.com/users/elefant86/badges/large)
+![Codewars](https://www.codewars.com/users/andreyrunov/badges/large)
 
 
 ## Reach me on
