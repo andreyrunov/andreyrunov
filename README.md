@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Andrey.
 
-I am a Frontend JS Developer with good experience in project management. Live in Moscow.
+I am a Frontend JS Developer. Live in Moscow.
 
 ## My stack
 
