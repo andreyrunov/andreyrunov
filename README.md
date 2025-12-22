@@ -19,9 +19,3 @@
 ## Codewars
 
 ![Codewars](https://www.codewars.com/users/andreyrunov/badges/large)
-
-
-## Reach me on
-
-[![Telegram](https://img.shields.io/badge/Telegram-AEDEFC??style=for-the-badge&logo=telegram)](https://t.me/andrey_runov)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-086972??style=for-the-badge&logo=whatsapp)](https://wa.me/79099154415)
